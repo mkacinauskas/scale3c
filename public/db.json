@@ -1,0 +1,83 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "sku": 19991,
+      "title": "Ilgagrudziai BASMATI ryziai SKANEJA 800g.",
+      "description": "Ilgagrudziai BASMATI ryziai SKANEJA 800g.",
+      "price": 1.58,
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 2,
+      "sku": 19991,
+      "title": "Ilgagrudziai BASMATI ryziai SKANEJA 800g.",
+      "description": "Ilgagrudziai BASMATI ryziai SKANEJA 800g.",
+      "price": 1.58,
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 3,
+      "sku": 19991,
+      "title": "Ilgagrudziai BASMATI ryziai SKANEJA 800g.",
+      "description": "Ilgagrudziai BASMATI ryziai SKANEJA 800g.",
+      "price": 1.58,
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 4,
+      "sku": 19991,
+      "title": "Ilgagrudziai BASMATI ryziai SKANEJA 800g.",
+      "description": "Ilgagrudziai BASMATI ryziai SKANEJA 800g.",
+      "price": 1.58,
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 5,
+      "sku": 19991,
+      "title": "Ilgagrudziai BASMATI ryziai SKANEJA 800g.",
+      "description": "Ilgagrudziai BASMATI ryziai SKANEJA 800g.",
+      "price": 1.58,
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 6,
+      "sku": 19991,
+      "title": "Ilgagrudziai BASMATI ryziai SKANEJA 800g.",
+      "description": "Ilgagrudziai BASMATI ryziai SKANEJA 800g.",
+      "price": 1.58,
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 7,
+      "sku": 19991,
+      "title": "Ilgagrudziai BASMATI ryziai SKANEJA 800g.",
+      "description": "Ilgagrudziai BASMATI ryziai SKANEJA 800g.",
+      "price": 1.58,
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 8,
+      "sku": 19991,
+      "title": "Ilgagrudziai BASMATI ryziai SKANEJA 800g.",
+      "description": "Ilgagrudziai BASMATI ryziai SKANEJA 800g.",
+      "price": 1.58,
+      "isFreeShipping": false
+    },
+    {
+      "id": 9,
+      "sku": 19991,
+      "title": "Ilgagrudziai BASMATI ryziai SKANEJA 800g.",
+      "description": "Ilgagrudziai BASMATI ryziai SKANEJA 800g.",
+      "price": 1.58,
+      "isFreeShipping": true
+    }
+  ]
+}

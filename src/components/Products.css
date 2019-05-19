@@ -1,0 +1,32 @@
+.col-md-4 {
+    background-color: #F1F1F1;
+}
+
+.thumbnail {
+    background-color:  white;
+}
+
+.btn-primary {
+    background-color: #E22E39;
+}
+
+.product-price-current {
+    color: #E22E39;
+    font-weight: 700;
+    font-size: 25px;
+}
+
+.products-title {
+    display: block;
+    text-align: center;
+    margin-bottom: 4px;
+    word-wrap: break-word;
+    font-size: 60;
+    color: #494949;
+    text-decoration: none;
+}
+
+.items-picture {
+    width: 50%;
+    height: 50%;
+}

@@ -1,0 +1,22 @@
+.header {
+    width: 75%;
+    overflow: hidden;
+    background-color: #E22E39;
+    padding: 20px 10px;
+    margin: auto;
+}
+
+.header a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.header a:hover {
+    background-color: rgb(107, 35, 39);
+    color: white;
+}

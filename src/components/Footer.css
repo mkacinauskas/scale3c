@@ -1,0 +1,11 @@
+.footer {
+    width: 75%;
+    overflow: hidden;
+    background-color: #F2F2F2;
+    padding: 20px 10px;
+    margin: auto;
+}
+
+.footer a {
+    display: block;
+}
